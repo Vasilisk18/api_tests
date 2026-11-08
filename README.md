@@ -6,6 +6,9 @@
 Automated API tests for the public REST service
 [JSONPlaceholder](https://jsonplaceholder.typicode.com).
 
+## CI
+- Tests run automatically on every push via GitHub Actions
+
 ## Tech stack
 - Python 3
 - pytest
