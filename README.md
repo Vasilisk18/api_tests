@@ -1,6 +1,8 @@
 # api_tests
 # API Tests: JSONPlaceholder
 
+![API tests](https://github.com/Vasilisk18/api_tests/actions/workflows/tests.yml/badge.svg)
+
 Automated API tests for the public REST service
 [JSONPlaceholder](https://jsonplaceholder.typicode.com).
 
